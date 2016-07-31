@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_text">Привет</string>
+    <string name="btn_text2">Сказать привет</string>
+    <string name="hello_world">Hello world</string>
+    <string name="push_me_man">Нажми меня</string>
+    <string name="my_text">My Text!</string>
+</resources>
+
